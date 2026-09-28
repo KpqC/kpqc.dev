@@ -3,6 +3,6 @@
   "name": "kpqc-dev",
   "compatibility_date": "2026-09-28",
   "assets": {
-    "directory": "."
+    "directory": "./public"
   }
 }
